@@ -1,2 +1,2 @@
-# Repositori-1
+# Praktikum-Python
 paython
